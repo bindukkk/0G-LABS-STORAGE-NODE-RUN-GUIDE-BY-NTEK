@@ -3,7 +3,7 @@
 # 😱😱 0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-NTEK
 
 > 🚀 Complete guide to run your own 0G Labs Storage Node with snapshot support, logs monitoring, and systemd service setup.  
-> 🧠 Created by NTEK for the community — Join our Telegram: [t.me/ntekearning2](https://t.me/ntekearning2)
+> 🧠 Created by NTEK for the community — Join our Telegram: [https://t.me/bindastrick)
 
 ---
 
